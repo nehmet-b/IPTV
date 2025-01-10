@@ -1,0 +1,1445 @@
+#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
+#EXTINF:-1 group-title="Azerbaijan Channels",AzTV
+http://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",Ictimai TV
+http://135.181.115.81:8000/play/a01n/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Azerbaijan Channels",Ictimai TV (rez)
+http://str.yodacdn.net/ictimai/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/b/bb/Real_TV_loqosu.png" group-title="Azerbaijan Channels",Real TV
+http://135.181.115.81:8000/play/a01t/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Azerbaijan Channels",Real TV (rez)
+http://edge02.odtv.az/o2/realtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/88/%C4%B0dman_Az%C9%99rbaycan_TV_loqo_%282019-h.h.%29.png" group-title="Azerbaijan Channels",Idman
+http://135.181.115.81:8000/play/a01q/index.m3u8?token=livetv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/ARB_24_logo1.png" group-title="Azerbaijan Channels",ARB 24
+http://mfe02.cliptv.az/dash/ARB_24_SDrfv011056_re.ism/playlist.mpd
+#EXTINF:-1 group-title="Azerbaijan Channels",ARB 24 (rez)
+http://str.yodacdn.net/arb24/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/8/86/ARB.png/800px-ARB.png" group-title="Azerbaijan Channels",ARB Canli AZ
+http://mfe02.cliptv.az/dash/ARB_SDwdv010056_re.ism/playlist.mpd
+#EXTINF:-1 group-title="Azerbaijan Channels",ARB Canli AZ (rez)
+http://edge02.odtv.az/o1/arbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/474px-Azad_Azerbaycan_TV_logosu.png" group-title="Azerbaijan Channels",Azad TV
+http://135.181.115.81:8000/play/a01s/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Azerbaijan Channels",Azad TV (rez)
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_240p500kbps.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",Xazar TV
+http://135.181.115.81:8000/play/a01r/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Azerbaijan Channels",Xazar TV (rez)
+http://str.yodacdn.net/xazar/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",CBC Sport
+http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
+#EXTINF:-1 group-title="Azerbaijan Channels",CBC Sport (rez)
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.agrotvazerbaijan.az/uploads/images/logo-7szXRi4-1.png" group-title="Azerbaijan Channels",AGRO TV Azərbaycan
+https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/3d/Baku_Tv.png" group-title="Azerbaijan Channels",Baku.TV
+https://rtmp.baku.tv/live/bakutv_540p.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",Medeniyyet
+http://135.181.115.81:8000/play/a01p/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Azerbaijan Channels",Medeniyyet (rez)
+https://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://news.unec.edu.az/images/APA_TV.png" group-title="Azerbaijan Channels",APA TV
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiCbvaiZoNmS3qdp2LAtLDRMMqg5XMb7C0GjxcnJg30g&s" group-title="Azerbaijan Channels",AZSTAR TV
+http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",CBC
+http://88.99.66.6:8080/str.yodacdn.net/cbc/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png" group-title="Azerbaijan Channels",DUNYA TV
+http://135.181.115.81:8000/play/a01l/index.m3u8?token=livetv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/a/a3/G%C3%BCnAz_TV.png" group-title="Azerbaijan Channels",Günaz TV
+http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Kanal_S_%282022%29.png" group-title="Azerbaijan Channels",Kanal S
+http://135.181.115.81:8000/play/a01v/index.m3u8?token=livetv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png" group-title="Azerbaijan Channels",Kəpəz tv
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/b3/93/51/b39351c3-9a0a-d43f-8868-aac3f41961f4/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" group-title="Azerbaijan Channels",LiveTV Az
+http://213.239.195.222:80/azerbaijan/livetv2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/1280px-MTV_Az%C9%99rbaycan_%282022%29.png" group-title="Azerbaijan Channels",Muz TV
+http://88.99.66.6:8080/str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 tvg-logo="https://ntv.az/assets/images/logo.png" group-title="Azerbaijan Channels",Naxçıvan TV
+http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-16642607366-1664260736
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/c/cd/S%C9%99hiyy%C9%99_TV.png" group-title="Azerbaijan Channels",Sehiyye TV
+http://65.21.85.175:8000/play/a02v/index.m3u8?token=livetv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Space_TV_loqosu_%282023-h.h.%29.png/948px-Space_TV_loqosu_%282023-h.h.%29.png" group-title="Azerbaijan Channels",Space TV
+http://135.181.115.81:8000/play/a01k/index.m3u8?token=livetv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvqZ-frFWw-AxIuFd44A9afmcVevrU0ZHiDfInVqUsw&s" group-title="Azerbaijan Channels",TMB Azerbaycan
+http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:-1 group-title="Turkish Channels",A Haber HD
+http://stream.tvcdn.net/haber/a-haber.m3u8
+#EXTINF:-1 group-title="Turkish Channels",KANAL D
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:-1 group-title="Turkish Channels",KANAL D (rez)
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 group-title="Turkish Channels",Kanal 7 FHD TR
+https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="Turkish Channels",Kanal 7 FHD TR (rez)
+https://kanal7.daioncdn.net/kanal7/kanal7_480p.m3u8?&sid=630s3zibbjtp&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
+#EXTINF:-1 group-title="Turkish Channels",Kanal 7 Avrupa TR
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+#EXTINF:-1 group-title="Turkish Channels",ATV HD TR
+http://mfe.cliptv.az/dash/ATV_Turk_HDufk050056_re.ism/playlist.mpd
+#EXTINF:-1 group-title="Turkish Channels",Show Turk TR
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/showturk.m3u8
+#EXTINF:-1 group-title="Turkish Channels",Show TV HD
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF:-1 group-title="Turkish Channels",Show Max
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/showmax.m3u8
+#EXTINF:-1 group-title="Turkish Channels",NOW
+https://nowtvdvr.blutv.com/blutv_nowtv_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="Turkish Channels",Fox TV FHD TR
+http://stream.tvcdn.net/ulusal/now-tv.m3u8
+#EXTINF:-1 group-title="Turkish Channels",Star TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:-1 group-title="Turkish Channels",DMAX HD TR
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1 group-title="Turkish Channels",CNN Turk HD
+http://stream.tvcdn.net/haber/cnn-turk.m3u8
+#EXTINF:-1 group-title="Turkish Channels",TV8 HD TR
+https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=6i1zihqoe4on&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 group-title="Turkish Channels",TV8 HD TR (rez)
+https://tv8.daioncdn.net/tv8/tv8_480p.m3u8?&sid=6i1zihqoe4on&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 group-title="Turkish Channels",TV8 HD TR (rez2)
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
+#EXTINF:-1 group-title="Turkish Channels",TV8 International
+http://stream.tvcdn.net/ulusal-yurt-disi/tv8-int.m3u8
+#EXTINF:-1 group-title="Turkish Channels",TV 100
+https://tv100.blutv.com/blutv_tv100_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="Turkish Channels",ATV Avrupa TR
+http://109.205.166.68:80/server126/hls/atv_avrp.m3u8?st=zlMYxmFR95XcleNSH9WiWw&e=1676581240
+#EXTINF:-1 group-title="Turkish Channels",Euro D TR
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 group-title="Turkish Channels",EURO STAR
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/eurostar.m3u8
+#EXTINF:-1 group-title="Turkish Channels",Haber Turk FHD TR
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+#EXTINF:-1 group-title="Turkish Channels",Global Haber TV TR
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 group-title="Turkish Channels",Akit TV HD TR
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 group-title="Turkish Channels",beIN Movies Premiere HD TR
+https://m3u-editor.com/serve/101fcd50-0fd3-11ef-96d0-8dd5681121e4/1160041945
+#EXTINF:-1 group-title="Turkish Channels",beIN Movies Premiere 2 HD TR
+https://www.kool.to/play/117007047/index.m3u8
+#EXTINF:-1 group-title="Turkish Channels",BENGÜTÜRK TV HD
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+#EXTINF:-1 group-title="Turkish Channels",BEYAZ TV HD
+https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="Turkish Channels",BLOOMBERG HT TR
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 group-title="Turkish Channels",Dost TV TR
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 group-title="Turkish Channels",FORTUNA TÜRK TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="Turkish Channels",Haber 61 TV
+http://stream.tvcdn.net/yerel/haber-61-tv.m3u8
+#EXTINF:-1 group-title="Turkish Channels",Kanal S TR
+http://stream.tvcdn.net/yerel/kanal-s.m3u8
+#EXTINF:-1 group-title="Turkish Channels",MECLİS TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 group-title="Turkish Channels",NTV
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8
+#EXTINF:-1 group-title="Turkish Channels",TARIM TV
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-360p.m3u8
+#EXTINF:-1 group-title="Turkish Channels",Teve 2 HD
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 group-title="Turkish Channels",TGRT Haber FHD TR
+https://tgrthaber.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8?&sid=653w7r6bcjey&app=b27a82b9-5821-454c-8077-df804db285c2&ce=2
+#EXTINF:-1 group-title="Turkish Channels",TİVİ TÜRK
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 group-title="Turkish Channels",TLC TR
+https://dogus-live.daioncdn.net/tlc/tlc_360p.m3u8
+#EXTINF:-1 group-title="Turkish Channels",TRT 1
+http://stream.tvcdn.net/ulusal/trt-1.m3u8
+#EXTINF:-1 group-title="Turkish Channels",TRT 1 HD
+https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
+#EXTINF:-1 group-title="Turkish Channels",TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="Turkish Channels",TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="Turkish Channels",TRT KURDI
+https://tv-trtkurdi.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="Turkish Channels",TRT Eba TV Ilkokul HD TR
+https://tv-e-okul04.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Turkish Channels",TRT TURK EUROPA
+https://tv-trtturk.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="Turkish Channels",TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="Turkish Channels",TÜRK HABER
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Turkish Channels",TV 4 TR
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1 group-title="Turkish Channels",TV Net TR
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 group-title="Turkish Channels",24 TV HD
+https://turkmedya-live.ercdn.net/tv24/tv24_360p.m3u8
+#EXTINF:-1 group-title="Turkish Channels",360 HD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 group-title="Turkish Channels",a2
+http://stream.tvcdn.net/eglence/a2.m3u8
+#EXTINF:-1 group-title="Russian Channels",Кинопремьера HD
+http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
+#EXTINF:-1 group-title="Russian Channels",Киномикс HD
+https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
+#EXTINF:-1 group-title="Russian Channels",Кинокомедия HD
+http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
+#EXTINF:-1 group-title="Russian Channels",Киносвидание HD
+http://mfe02.cliptv.az:80/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
+#EXTINF:-1 group-title="Russian Channels",Киносемья HD
+http://mfe01.cliptv.az:80/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
+#EXTINF:-1 group-title="Russian Channels",МУЖСКОЕ КИНО
+http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
+#EXTINF:-1 group-title="Russian Channels",Кинохит HD
+http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
+#EXTINF:-1 group-title="Russian Channels",КИНОУЖАС HD
+http://31.131.136.4:8001/play/e00b
+#EXTINF:-1 group-title="Russian Channels",Индийское кино
+http://mfe01.cliptv.az:80/dash/Indiyskoe_Kino_SDfdghj4.ism/playlist.mpd
+#EXTINF:-1 group-title="Russian Channels",Киносерия HD
+http://mfe01.cliptv.az:80/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
+#EXTINF:-1 group-title="Russian Channels",Родное кино
+http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
+#EXTINF:-1 group-title="Russian Channels",Наше Новое Кино
+http://135.181.115.81:8000/play/a01b/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Russian Channels",Viju TV1000
+http://92.242.110.52:9835/udp/238.1.8.23:1234
+#EXTINF:-1 group-title="Russian Channels",Viju TV1000 Action
+http://92.242.110.52:9835/udp/238.1.8.24:1234
+#EXTINF:-1 group-title="Russian Channels",VIP Premiere
+http://135.181.115.81:8000/play/a01a/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Russian Channels",Viju TV1000 Русское
+http://92.242.110.52:9835/udp/238.1.8.22:1234
+#EXTINF:-1 group-title="Russian Channels",VIP Serial HD
+http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
+#EXTINF:-1 group-title="Russian Channels",Домашний HD
+http://185.32.44.154/domashniy/index.m3u8
+#EXTINF:-1 group-title="Russian Channels",ДОРАМА
+https://st1.uzdigital.tv/Dorama/playlist.m3u8
+#EXTINF:-1 group-title="Russian Channels",Извеcтия HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="Russian Channels",НТB HD
+http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
+#EXTINF:-1 group-title="Russian Channels",Первый Kanal HD
+http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="Russian Channels",Пятница! HD
+http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
+#EXTINF:-1 group-title="Russian Channels",РБK ТВ
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 group-title="Russian Channels",РЕН ТB
+http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
+#EXTINF:-1 group-title="Russian Channels",РЖД ТВ
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Russian Channels",Росcия 1 HD
+http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+#EXTINF:-1 group-title="Russian Channels",Росcия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
+#EXTINF:-1 group-title="Russian Channels",С1 СУРГУТ
+https://sitv.ru/hls/stv1024.m3u8
+#EXTINF:-1 group-title="Russian Channels",СТС HD
+http://mfe02.cliptv.az:80/dash/STS_SDshl247h.ism/playlist.mpd
+#EXTINF:-1 group-title="Russian Channels",ТНТ HD
+http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+#EXTINF:-1 group-title="Russian Channels",.sci-fi
+http://mfe01.cliptv.az:80/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
+#EXTINF:-1 group-title="Russian Channels",Amedia 1 HD
+http://mfe02.cliptv.az:80/dash/A1_SDoioioi65.ism/playlist.mpd
+#EXTINF:-1 group-title="Russian Channels",Amedia 2 HD
+http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd
+#EXTINF:-1 group-title="Russian Channels",Amedia Premium HD
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
+#EXTINF:-1 group-title="Russian Channels",Арис 24 HD
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 group-title="Russian Channels",Архыз 24
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1 group-title="Russian Channels",Astragan Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Russian Channels",Астрахань 24
+https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Russian Channels",Север ТВ FHD
+https://live.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1 group-title="Russian Channels",Страна FM HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Russian Channels",Cinema Classic TV
+http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1 group-title="Russian Channels",Mир +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 group-title="Russian Channels",Mир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Russian Channels",MИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Russian Channels",RTД HD
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="Russian Channels",TB7 Russia
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
+#EXTINF:-1 group-title="Russian Channels",Univer TV
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Russian Channels",Vetta 24 RU
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 group-title="Russian Channels",360 НОВОСТИ
+https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3u8
+#EXTINF:-1 group-title="Russian Channels",FREEDOM
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:-1 group-title="Russian Channels",2x2
+http://mfe02.cliptv.az/dash/2x2_SDhhh63hd.ism/playlist.mpd
+#EXTINF:-1 group-title="Russian Channels",ЕвроНовости
+http://mfe01.cliptv.az/dash/Evronovosti_SDpoz269.ism/playlist.mpd
+#EXTINF:-1 group-title="Russian Channels",Кухня ТВ
+http://mfe02.cliptv.az/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd
+#EXTINF:-1 group-title="Russian Channels",Усадьба
+http://188.113.190.15/71/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Arabic Channels",Al-Jazeera TV
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 group-title="Arabic Channels",mbc HD
+https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_6.m3u8
+#EXTINF:-1 group-title="Arabic Channels",MBC 2 SD AE
+http://multies.xyz/live/E53A9487D1C020EAD9AECAFEADB91E6A/132.m3u8
+#EXTINF:-1 group-title="Arabic Channels",mbc 3 HD
+https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
+#EXTINF:-1 group-title="Arabic Channels",MBC 4 AE
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
+#EXTINF:-1 group-title="Arabic Channels",mbc 5 HD
+https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
+#EXTINF:-1 group-title="Arabic Channels",Mbc Drama AE
+https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8
+#EXTINF:-1 group-title="Arabic Channels",mbc Drama Plus
+https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_2.m3u8
+#EXTINF:-1 group-title="Arabic Channels",Mbc Action AE
+http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Arabic Channels",Mbc Max AE
+https://wsla.top/live/admin/may/7.m3u8
+#EXTINF:-1 group-title="Arabic Channels",mbc Masr
+https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index_4.m3u8
+#EXTINF:-1 group-title="Arabic Channels",mbc Masr+2
+https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
+#EXTINF:-1 group-title="Arabic Channels",mbc Iraq
+https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
+#EXTINF:-1 group-title="Arabic Channels",mbc Persia
+https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_2.m3u8
+#EXTINF:-1 group-title="Arabic Channels",TRT ARABI
+https://tv-trtarabi.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="Arabic Channels",February TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist_b200000.m3u8?md5=YgfdQ6W-cpgqdUOlg7s7gg&expires=1707584076
+#EXTINF:-1 group-title="Arabic Channels",Al Arabia
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
+#EXTINF:-1 group-title="Sports Channels",МАТЧ ПРЕМЬЕР
+http://65.21.85.175:8000/play/a00a/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Sports Channels",Матч! HD
+http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Sports Channels",МАТЧ! Арена
+http://65.21.85.175:8000/play/a004/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Sports Channels",МАТЧ! Боец
+http://65.21.85.175:8000/play/a005/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Sports Channels",МАТЧ! Футбол 1
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 group-title="Sports Channels",МАТЧ! Футбол 1 (rez)
+http://65.21.85.175:8000/play/a007/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Sports Channels",МАТЧ! Футбол 2
+http://89.104.114.32:8080/football2_hd/mono.m3u8?token=DWEvjhKS3G
+#EXTINF:-1 group-title="Sports Channels",МАТЧ! Футбол 2 (rez)
+http://65.21.85.175:8000/play/a008/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Sports Channels",МАТЧ! Футбол 3
+http://185.57.68.33/110/mpegts
+#EXTINF:-1 group-title="Sports Channels",МАТЧ! Футбол 3 (rez)
+http://65.21.85.175:8000/play/a009/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Sports Channels",A Spor
+http://stream.tvcdn.net/spor/a-spor.m3u8
+#EXTINF:-1 group-title="Sports Channels",beIN Sports 1 HD TR
+https://www.kool.to/play/143239535/index.m3u8
+#EXTINF:-1 group-title="Sports Channels",beIN Sports 2 HD TR
+https://wonderful2.tyquancash49.workers.dev/yayinb2.m3u8
+#EXTINF:-1 group-title="Sports Channels",beIN Sports 3 HD TR
+https://www.kool.to/play/1700595801/index.m3u8
+#EXTINF:-1 group-title="Sports Channels",beIN Sports Haber FHD TR
+https://bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
+#EXTINF:-1 group-title="Sports Channels",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="Sports Channels",Eurosport 1
+http://edge02.odtv.az/o7/eurosport/playlist.m3u8
+#EXTINF:-1 group-title="Sports Channels",Eurosport 2
+http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
+#EXTINF:-1 group-title="Sports Channels",FB TV
+http://stream.tvcdn.net/spor/fb-tv.m3u8
+#EXTINF:-1 group-title="Sports Channels",Galatasaray TV TR
+https://owifavo5.rocketcdn.com/gstv/gstv/chunklist.m3u8
+#EXTINF:-1 group-title="Sports Channels",KHL
+https://stream2.cinerama.uz/1028/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports Channels",KHL Prime 50
+http://sc.id-tv.kz/FHD_KHL_34_35.m3u8
+#EXTINF:-1 group-title="Sports Channels",Setanta Eurasia HD
+http://ru.seetv.cc/play/469/E5E8424564E73AE/video.m3u8
+#EXTINF:-1 group-title="Sports Channels",Setanta Sports 1 HD
+https://vsd121.mycdn.me/hls/6669923912247.m3u8/sig/PfL4YEeuWSU/expires/1722340237095/srcIp/130.0.12.38/urls/185.226.53.49/clientType/0/srcAg/CHROME_ANDROID/mid/7309293264439/video.m3u8?p
+#EXTINF:-1 group-title="Sports Channels",Setanta Sports 2 HD
+http://ott.server-iptv.live/221/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 group-title="Sports Channels",Setanta Sports+
+https://vsd132.mycdn.me/hls/6674312923703.m3u8/sig/b65Wq9XqlX4/expires/1718923063611/srcIp/91.191.203.251/urls/45.136.20.86/clientType/0/srcAg/CHROME_ANDROID/mid/7312114785847/video.m3u8?p
+#EXTINF:-1 group-title="Sports Channels",Setanta Ukraine HD
+http://ru.seetv.cc/play/1434/E5E8424564E73AE/video.m3u8
+#EXTINF:-1 group-title="Sports Channels",Spor Smart
+https://www.kool.to/play/312526367/index.m3u8
+#EXTINF:-1 group-title="Sports Channels",Spor Smart 2
+https://www.kool.to/play/803935269/index.m3u8
+#EXTINF:-1 group-title="Sports Channels",Sports TV TR
+https://sportstv.blutv.com/blutv_sportstv2/live.m3u8
+#EXTINF:-1 group-title="Sports Channels",TIVIBUSPOR 1 HD
+https://www.kool.to/play/818652823/index.m3u8
+#EXTINF:-1 group-title="Sports Channels",TIVIBUSPOR 2 HD
+https://www.kool.to/play/2003557447/index.m3u8
+#EXTINF:-1 group-title="Sports Channels",TIVIBUSPOR 3 HD
+https://www.kool.to/play/1242297847/index.m3u8
+#EXTINF:-1 group-title="Sports Channels",TIVIBUSPOR 4 HD
+https://www.kool.to/play/2034861964/index.m3u8
+#EXTINF:-1 group-title="Sports Channels",TRT SPOR
+http://stream.tvcdn.net/spor/trt-spor.m3u8
+#EXTINF:-1 group-title="Sports Channels",TV8.5
+http://50.7.218.122:8080/tv85/index.m3u8
+#EXTINF:-1 group-title="Sports Channels",Viju+ SPORT HD
+https://www.kool.to/play/3689357369/index.m3u8
+#EXTINF:-1 group-title="Sports Channels",Real Madrid TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+#EXTINF:-1 group-title="Documentary Channels",ID Xtra
+http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Documentary Channels",Глазами туриста HD
+https://bkm.beetv.kz/btv/live/hls/000001414.m3u8
+#EXTINF:-1 group-title="Documentary Channels",Да Винчи
+http://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:-1 group-title="Documentary Channels",Discovery Channel
+https://bkm.beetv.kz/btv/live/hls/000001496.m3u8
+#EXTINF:-1 group-title="Documentary Channels",National Geographic
+http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Documentary Channels",National Geographic TR HD
+http://185.32.44.154/NationalGeographicHD/index.m3u8
+#EXTINF:-1 group-title="Documentary Channels",NatGeo Wild HD TR
+http://185.32.44.154/natgeowild/index.m3u8
+#EXTINF:-1 group-title="Documentary Channels",Animal Planet HD
+http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
+#EXTINF:-1 group-title="Documentary Channels",Viju History
+https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
+#EXTINF:-1 group-title="Documentary Channels",VIASAT NATURE HD
+https://bkm.beetv.kz/btv/live/hls/000006482.m3u8
+#EXTINF:-1 group-title="Documentary Channels",Viju Explore
+https://bkm.beetv.kz/btv/live/hls/000004157.m3u8
+#EXTINF:-1 group-title="Documentary Channels",History HD
+https://bkm.beetv.kz/btv/live/hls/000001000.m3u8
+#EXTINF:-1 group-title="Documentary Channels",TRT Belgesel TR
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Documentary Channels",Big Planet HD
+https://bkm.beetv.kz/btv/live/hls/000008052.m3u8
+#EXTINF:-1 group-title="Documentary Channels",Диалоги о рыбалке HD
+https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
+#EXTINF:-1 group-title="Documentary Channels",ЗООПАРК
+http://185.32.44.154/zoopark/index.m3u8
+#EXTINF:-1 group-title="Documentary Channels",Моя планета HD
+http://31.148.48.15:80/Moya_Planeta/index.m3u8?token=test
+#EXTINF:-1 group-title="Documentary Channels",Наука HD
+http://185.32.44.154/nauka/index.m3u8
+#EXTINF:-1 group-title="Documentary Channels",Оружие
+https://bkm.beetv.kz/btv/live/hls/000000308.m3u8
+#EXTINF:-1 group-title="Documentary Channels",Охотник и рыболов HD
+https://bkm.beetv.kz/btv/live/hls/000000608.m3u8
+#EXTINF:-1 group-title="Documentary Channels",Рыбалка и охота
+https://bkm.beetv.kz/btv/live/hls/000002510.m3u8
+#EXTINF:-1 group-title="Documentary Channels",History Channel HD TR
+http://mfe02.cliptv.az/dash/History_HDqdbi69.ism/playlist.mpd
+#EXTINF:-1 group-title="Documentary Channels",RTG TV
+http://mfe02.cliptv.az/dash/RTG_HDkfy734.ism/playlist.mpd
+#EXTINF:-1 group-title="Documentary Channels",TERRA
+https://bkm.beetv.kz/btv/live/hls/000008142.m3u8
+#EXTINF:-1 group-title="Documentary Channels",Yaban TV TR
+https://www.kool.to/play/3338159581/index.m3u8
+#EXTINF:-1 group-title="Documentary Channels",Дикая рыбалка HD
+https://bkm.beetv.kz/btv/live/hls/000004610.m3u8
+#EXTINF:-1 group-title="Documentary Channels",Дикая охота HD
+https://bkm.beetv.kz/btv/live/hls/000004609.m3u8
+#EXTINF:-1 group-title="Documentary Channels",BBC Earth HD TR
+https://www.kool.to/play/1258442222/index.m3u8
+#EXTINF:-1 group-title="Kids Channels",Детский мир
+http://mfe02.cliptv.az:80/dash/Detskiy_Mir_SDqwvb78iu.ism/playlist.mpd
+#EXTINF:-1 group-title="Kids Channels",Карусель
+http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
+#EXTINF:-1 group-title="Kids Channels",Мульт
+http://mfe02.cliptv.az/dash/Mult_SDkye43.ism/playlist.mpd
+#EXTINF:-1 group-title="Kids Channels",Ani
+http://mfe02.cliptv.az:80/dash/ANITV_SDqwwqqwe3.ism/playlist.mpd
+#EXTINF:-1 group-title="Kids Channels",CARTOON NETWORK TR
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
+#EXTINF:-1 group-title="Kids Channels",Gulli
+http://135.181.115.81:8000/play/a01g/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Kids Channels",Nickelodeon
+https://bkm.beetv.kz/btv/live/hls/000000499.m3u8
+#EXTINF:-1 group-title="Kids Channels",TiJi
+http://135.181.115.81:8000/play/a01i/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Kids Channels",TRT Cocuk HD TR
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Kids Channels",Disney
+https://vsd126.mycdn.me/hls/6125827656247.m3u8/sig/vA7rAB-nHFc/expires/1718921883542/srcIp/91.191.203.251/urls/45.136.21.40/clientType/0/srcAg/CHROME_ANDROID/mid/6969737551415/video.m3u8?p
+#EXTINF:-1 group-title="Music Channels",Европа Плюс ТВ
+http://135.181.115.81:8000/play/a01d/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Music Channels",Жар Птица
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
+#EXTINF:-1 group-title="Music Channels",Жара Kids HD
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",М2 HD
+http://live.m2.tv/hls3/720/stream.m3u8
+#EXTINF:-1 group-title="Music Channels",Матур ТВ
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 group-title="Music Channels",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1 group-title="Music Channels",Afrobeats TV
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Music Channels",Best of Dance TV
+https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 group-title="Music Channels",Company TV
+https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
+#EXTINF:-1 group-title="Music Channels",Deep House District
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 group-title="Music Channels",DREAM TURK HD
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",Go TV
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w256350942.m3u8
+#EXTINF:-1 group-title="Music Channels",Kiss Kiss Italia HD
+https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",Kiss Kiss Napoli HD
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",KralPOP
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:-1 group-title="Music Channels",Magic TV
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",Music Reload TV HD
+http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
+#EXTINF:-1 group-title="Music Channels",Muzzik Cafe&Club
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",Muzzik Cafe&Club Serbia
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",Muzzik HipHop
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",Muzzik OKK
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",Muzzik Rock&Roll
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",Muzzik TV
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",Muzzik Worldwide
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",NG TV
+https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",NRG 91 Music HD
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 group-title="Music Channels",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Music Channels",Ocko Gold
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",ÓČKO HITY
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Music Channels",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Music Channels",Ocko TV
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Music Channels",On Air TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist_w1284330867.m3u8
+#EXTINF:-1 group-title="Music Channels",Power Dance
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",Power Love
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",PowerTürk Akustik
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",PowerTürk Slow
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",PowerTürk Taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",PowerTürk TV
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",QMUSIC
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 group-title="Music Channels",Radio Ibiza TV
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1014685428.m3u8
+#EXTINF:-1 group-title="Music Channels",Radio Love FM
+https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",Reload Radio Music Power HD
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+#EXTINF:-1 group-title="Music Channels",RTV Altea HD
+http://54.38.156.56/live/stream/index.m3u8
+#EXTINF:-1 group-title="Music Channels",RU TV HD
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 group-title="Music Channels",Tatlıses Tv
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3ERH8M38H92TK4/6872/index.m3u8
+#EXTINF:-1 group-title="Music Channels",TRT MUZiK
+https://tv-trtmuzik.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="Music Channels",V2Beat TV Live
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1 group-title="Music Channels",VEVO '70s (USA)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?sid=0895&deviceId=5f32f26bcd8aea00071240e5&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
+#EXTINF:-1 group-title="Music Channels",VEVO R&B (USA)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?sid=0890&deviceId=5da0d83f66c9700009b96d0e&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
+#EXTINF:-1 group-title="Music Channels",Vibee TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",Vostok tv
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3ERH8M38H92TK4/1054/index.m3u8
+#EXTINF:-1 group-title="Music Channels",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 group-title="Music Channels",88 STEREO TV
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="Music Channels",Жара HD
+http://188.113.190.15/328/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Radio",CASPIAN RADIO BOSS
+https://myradio24.org/bosscomaz
+#EXTINF:-1 group-title="Radio",ANS ÇM Radio
+https://live.ansradio.ws:8443/mp3_128
+#EXTINF:-1 group-title="Radio",ANTENN FM
+https://icecast.livetv.az/antennfm
+#EXTINF:-1 group-title="Radio",Araz FM
+https://s14.myradiostream.com/:30454/listen.mp3?nocache=1673498391
+#EXTINF:-1 group-title="Radio",ASAN RADİO
+http://94.20.74.206:4448/stream1
+#EXTINF:-1 group-title="Radio",Avto FM
+http://5.191.241.101:8000/avtofm
+#EXTINF:-1 group-title="Radio",İctimai radio-90FM
+https://stream.itv.az/rtmp:/radio/chunks.m3u8
+#EXTINF:-1 group-title="Radio",Space Radio
+http://5.191.241.101:8000/spaceradio
+#EXTINF:-1 group-title="Radio",TMB RADİO AZ-100.5FM
+http://s39.myradiostream.com:5458/listen.mp3?nocache=1673499165
+#EXTINF:-1 group-title="Radio",Vətən Radio
+https://stream-65.zeno.fm/0kgkkzanmueuv?zs=w2itfOLETDODSkeATfrnGQ
+#EXTINF:-1 group-title="Radio",Viva FM Azərbaycan
+https://stream-48.zeno.fm/tbfu8vxb84zuv?zs=DTScpNhKRyCdI9pB5bME3Q
+#EXTINF:-1 group-title="Radio",Xəzər FM
+https://s40.myradiostream.com/:22546/listen.mp3
+#EXTINF:-1 group-title="Radio",Yurd Fm-90.7
+https://icecast.livetv.az/yurdfm
+#EXTINF:-1 group-title="USA",NBC News NOW
+https://jmp2.uk/SamsungTVPlus/CAAJ2700011IF.m3u8
+#EXTINF:-1 group-title="USA",ABC News Live
+https://jmp2.uk/SamsungTVPlus/USBC39000171G.m3u8
+#EXTINF:-1 group-title="USA",Fox News Channel
+https://jmp2.uk/SamsungTVPlus/USBA300024TN.m3u8
+#EXTINF:-1 group-title="USA",CTV News
+https://jmp2.uk/SamsungTVPlus/CA1400004AE.m3u8
+#EXTINF:-1 group-title="USA",CNN
+https://jmp2.uk/SamsungTVPlus/DEBD800001S4.m3u8
+#EXTINF:-1 group-title="USA",Sky News
+https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
+
+
+
+
+#EXTINF:0 tvg-name="Viasat Kino HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Viasat Kino HD
+http://de.seetv.cc/play/488/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Viasat Kino Action HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Viasat Kino Action HD
+http://de.seetv.cc/play/490/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Viasat Kino Megahit HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Viasat Kino Megahit HD
+http://de.seetv.cc/play/492/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Viasat Kino Comedy HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Viasat Kino Comedy HD
+http://de.seetv.cc/play/493/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Viasat Kino World" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Viasat Kino World
+http://de.seetv.cc/play/9987/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Viasat Serial" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Viasat Serial
+http://de.seetv.cc/play/5001/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Viju TV1000" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Viju TV1000
+http://de.seetv.cc/play/306/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Viju TV1000 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Viju TV1000 HD
+http://de.seetv.cc/play/82/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Viju TV1000 Action" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Viju TV1000 Action
+http://de.seetv.cc/play/83/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Viju TV1000 Action HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Viju TV1000 Action HD
+http://de.seetv.cc/play/487/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Viju TV1000 Новелла" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Viju TV1000 Новелла
+http://de.seetv.cc/play/232/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Viju TV1000 Русское кино HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Viju TV1000 Русское кино HD
+http://de.seetv.cc/play/489/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Viju TV1000 Русское кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Viju TV1000 Русское кино
+http://de.seetv.cc/play/81/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Viju+ Serial HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Viju+ Serial HD
+http://de.seetv.cc/play/9982/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Viju+ Comedy HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Viju+ Comedy HD
+http://de.seetv.cc/play/194/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Viju+ Megahit HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Viju+ Megahit HD
+http://de.seetv.cc/play/195/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Viju+ Premiere HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Viju+ Premiere HD
+http://de.seetv.cc/play/196/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Душевное HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Душевное HD
+http://de.seetv.cc/play/370/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Наше крутое HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Наше крутое HD
+http://de.seetv.cc/play/369/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Наше любимое HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Наше любимое HD
+http://de.seetv.cc/play/499/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Наше любимое кино UA" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Наше любимое кино UA
+http://de.seetv.cc/play/6141/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Наш Кинопоказ HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Наш Кинопоказ HD
+http://de.seetv.cc/play/4475/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Наше Мужское HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Наше Мужское HD
+http://de.seetv.cc/play/4777/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Хит HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Хит HD
+http://de.seetv.cc/play/4479/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Блокбастер HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Блокбастер HD
+http://de.seetv.cc/play/4476/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Остросюжетное HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Остросюжетное HD
+http://de.seetv.cc/play/368/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Киноужас HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Киноужас HD
+http://de.seetv.cc/play/259/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Про Любовь HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Про Любовь HD
+http://de.seetv.cc/play/4778/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Премиальное HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Премиальное HD
+http://de.seetv.cc/play/367/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Кинопремьера HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Кинопремьера HD
+http://de.seetv.cc/play/183/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Камеди HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Камеди HD
+http://de.seetv.cc/play/4780/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Кинохит" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Кинохит
+http://de.seetv.cc/play/33/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Киносемья" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Киносемья
+http://de.seetv.cc/play/13/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Киносемья HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Киносемья HD
+http://de.seetv.cc/play/276/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Киносвидание" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Киносвидание
+http://de.seetv.cc/play/11/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Кинокомедия" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Кинокомедия
+http://de.seetv.cc/play/3738/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Криминальное HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Криминальное HD
+http://de.seetv.cc/play/7308/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Шокирующее" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Шокирующее
+http://de.seetv.cc/play/137/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Комедийное" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Комедийное
+http://de.seetv.cc/play/138/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Кино без границ" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Кино без границ
+http://de.seetv.cc/play/61/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Лавстори HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Лавстори HD
+http://de.seetv.cc/play/8227/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="AMEDIA 1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",AMEDIA 1 HD
+http://de.seetv.cc/play/629/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Amedia 1" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Amedia 1
+http://de.seetv.cc/play/267/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Amedia 2" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Amedia 2
+http://de.seetv.cc/play/261/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Amedia Hit" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Amedia Hit
+http://de.seetv.cc/play/632/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="AMEDIA Premium HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",AMEDIA Premium HD
+http://de.seetv.cc/play/187/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Amedia premium" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Amedia premium
+http://de.seetv.cc/play/630/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Fox Life HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Fox Life HD
+http://de.seetv.cc/play/179/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Fox HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Fox HD
+http://de.seetv.cc/play/178/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Epic Drama HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Epic Drama HD
+http://de.seetv.cc/play/9983/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="NOW Series HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",NOW Series HD
+http://de.seetv.cc/play/904/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name=".black" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",.black
+http://de.seetv.cc/play/235/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name=".red HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",.red HD
+http://de.seetv.cc/play/292/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name=".red SD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",.red SD
+http://de.seetv.cc/play/85/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name=".sci-fi" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",.sci-fi
+http://de.seetv.cc/play/102/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="AMC" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",AMC
+http://de.seetv.cc/play/9936/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Bollywood HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Bollywood HD
+http://de.seetv.cc/play/283/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Hollywood HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Hollywood HD
+http://de.seetv.cc/play/176/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Fox Life" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Fox Life
+http://de.seetv.cc/play/94/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Fox" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Fox
+http://de.seetv.cc/play/95/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="TV XXI" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",TV XXI
+http://de.seetv.cc/play/84/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Epic" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Epic
+http://de.seetv.cc/play/285/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Comedy Central HD Україна" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Comedy Central HD Україна
+http://de.seetv.cc/play/382/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Comedy Central" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Comedy Central
+http://de.seetv.cc/play/181/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="НТВ Сериал" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",НТВ Сериал
+http://de.seetv.cc/play/784/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="НТВ Хит" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",НТВ Хит
+http://de.seetv.cc/play/3781/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Кинопоказ" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Кинопоказ
+http://de.seetv.cc/play/129/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Киносат" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Киносат
+http://de.seetv.cc/play/3670/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Кино ТВ HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Кино ТВ HD
+http://de.seetv.cc/play/381/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="1+1 Кіно"  group-title="Кино",1+1 Кіно
+http://de.seetv.cc/play/961/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Cine+ HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Cine+ HD
+http://de.seetv.cc/play/7996/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Cine+ Legend" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Cine+ Legend
+http://de.seetv.cc/play/7993/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Cine+ Hit HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Cine+ Hit HD
+http://de.seetv.cc/play/7995/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="4ever Theater HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",4ever Theater HD
+http://de.seetv.cc/play/7997/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="4ever Cinema HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",4ever Cinema HD
+http://de.seetv.cc/play/7999/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="4ever Drama HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",4ever Drama HD
+http://de.seetv.cc/play/7998/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="FilmUA Live"  group-title="Кино",FilmUA Live
+http://de.seetv.cc/play/185/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="FilmUA Drama" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",FilmUA Drama
+http://de.seetv.cc/play/9937/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Сваты HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Сваты HD
+http://de.seetv.cc/play/6162/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Kinowood" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Kinowood
+http://de.seetv.cc/play/5301/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BackusTV" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BackusTV
+http://de.seetv.cc/play/8112/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BackusTV Страшное" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",BackusTV Страшное
+http://de.seetv.cc/play/8113/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="VHS-ка HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",VHS-ка HD
+http://de.seetv.cc/play/497/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="О!Кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",О!Кино
+http://de.seetv.cc/play/498/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Plan B" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Plan B
+http://de.seetv.cc/play/313/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Horror TV"  group-title="Кино",Horror TV
+http://de.seetv.cc/play/5416/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Киноджем 1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Киноджем 1 HD
+http://de.seetv.cc/play/8846/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Киноджем 2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Киноджем 2 HD
+http://de.seetv.cc/play/8847/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="DetectiveJam" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",DetectiveJam
+http://de.seetv.cc/play/7311/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="FamilyJam" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",FamilyJam
+http://de.seetv.cc/play/7312/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="FilmBox" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",FilmBox
+http://de.seetv.cc/play/3774/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="FilmBox Arthouse" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",FilmBox Arthouse
+http://de.seetv.cc/play/2614/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Дорама HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Дорама HD
+http://de.seetv.cc/play/8791/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Star Cinema HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Star Cinema HD
+http://de.seetv.cc/play/9965/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Star Cinema" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Star Cinema
+http://de.seetv.cc/play/9966/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Star Family HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Star Family HD
+http://de.seetv.cc/play/9963/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Романтичное HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Романтичное HD
+http://de.seetv.cc/play/9903/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Bolt HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Bolt HD
+http://de.seetv.cc/play/1592/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KinoLiving HD"  group-title="Кино",KinoLiving HD
+http://de.seetv.cc/play/2642/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Kinosweet" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Kinosweet
+http://de.seetv.cc/play/6142/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Кіно та Серіали HD"  group-title="Кино",Кіно та Серіали HD
+http://de.seetv.cc/play/6146/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Kino 1" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Kino 1
+http://de.seetv.cc/play/8787/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Kino 24"  group-title="Кино",Kino 24
+http://de.seetv.cc/play/257/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Start World HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Start World HD
+http://de.seetv.cc/play/6158/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Start World"  group-title="Кино",Start World
+http://de.seetv.cc/play/126/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Start Air HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Start Air HD
+http://de.seetv.cc/play/6157/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Start Air"  group-title="Кино",Start Air
+http://de.seetv.cc/play/113/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="САПФИР" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",САПФИР
+http://de.seetv.cc/play/6156/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Кинеко" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Кинеко
+http://de.seetv.cc/play/6155/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Родное кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Родное кино
+http://de.seetv.cc/play/12/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Классика Кино"  group-title="Кино",Классика Кино
+http://de.seetv.cc/play/513/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Дом Кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Дом Кино
+http://de.seetv.cc/play/42/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Дом кино премиум HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Дом кино премиум HD
+http://de.seetv.cc/play/931/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Еврокино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Еврокино
+http://de.seetv.cc/play/96/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Русский роман" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Русский роман
+http://de.seetv.cc/play/172/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Русский Иллюзион" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Русский Иллюзион
+http://de.seetv.cc/play/201/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Мосфильм. Золотая коллекция" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Мосфильм. Золотая коллекция
+http://de.seetv.cc/play/9912/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Мосфильм HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Мосфильм HD
+http://de.seetv.cc/play/4985/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Иллюзион +" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Иллюзион +
+http://de.seetv.cc/play/202/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Мужское кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Мужское кино
+http://de.seetv.cc/play/209/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Наше новое кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Наше новое кино
+http://de.seetv.cc/play/35/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Trash TV" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Trash TV
+http://de.seetv.cc/play/4830/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Советское кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Советское кино
+http://de.seetv.cc/play/9926/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Победа" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Победа
+http://de.seetv.cc/play/3770/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="День Победы HD"  group-title="Кино",День Победы HD
+http://de.seetv.cc/play/5745/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Комедия" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Комедия
+http://de.seetv.cc/play/280/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Русский бестселлер" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Русский бестселлер
+http://de.seetv.cc/play/281/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Русский детектив" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Русский детектив
+http://de.seetv.cc/play/282/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Киномикс" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Киномикс
+http://de.seetv.cc/play/167/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Киносерия" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Киносерия
+http://de.seetv.cc/play/208/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Любимое кино HD"  group-title="Кино",Любимое кино HD
+http://de.seetv.cc/play/279/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Любимое кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Любимое кино
+http://de.seetv.cc/play/342/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Мир сериала" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Мир сериала
+http://de.seetv.cc/play/291/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Cinema" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Cinema
+http://de.seetv.cc/play/223/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Timeless Dizi Channel"  group-title="Кино",Timeless Dizi Channel
+http://de.seetv.cc/play/511/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Индия" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Индия
+http://de.seetv.cc/play/245/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Индийское Кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Индийское Кино
+http://de.seetv.cc/play/62/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Феникс+ Кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Феникс+ Кино
+http://de.seetv.cc/play/204/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="ТВ3" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",ТВ3
+http://de.seetv.cc/play/66/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="НСТ" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",НСТ
+http://de.seetv.cc/play/93/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Shot TV" catchup="shift" timeshift="5" catchup-days="5" group-title="Кино",Shot TV
+http://de.seetv.cc/play/150/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Novella TV"  group-title="Кино",Novella TV
+http://de.seetv.cc/play/512/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Сериал UHD 4k"  group-title="Кино",Сериал UHD 4k
+http://de.seetv.cc/play/8843/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Ultra HD Cinema 4k"  group-title="Кино",Ultra HD Cinema 4k
+http://de.seetv.cc/play/8844/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU Action HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU Action HD
+http://de.seetv.cc/play/7100/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU Catastrophe HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU Catastrophe HD
+http://de.seetv.cc/play/7101/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU Comedy HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU Comedy HD
+http://de.seetv.cc/play/7103/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU Cinema HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU Cinema HD
+http://de.seetv.cc/play/7102/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU CINEMA+ HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU CINEMA+ HD
+http://de.seetv.cc/play/7122/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU Fantastic HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU Fantastic HD
+http://de.seetv.cc/play/7104/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU STARS HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU STARS HD
+http://de.seetv.cc/play/7123/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU FilMystic HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU FilMystic HD
+http://de.seetv.cc/play/7105/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU Reality HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU Reality HD
+http://de.seetv.cc/play/7136/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU History HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU History HD
+http://de.seetv.cc/play/7106/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU Kinorating HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU Kinorating HD
+http://de.seetv.cc/play/7107/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU Marvel" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU Marvel
+http://de.seetv.cc/play/7108/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU Premiere HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU Premiere HD
+http://de.seetv.cc/play/7109/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU Romantic HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU Romantic HD
+http://de.seetv.cc/play/7110/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU Russian HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU Russian HD
+http://de.seetv.cc/play/7111/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU VHS HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU VHS HD
+http://de.seetv.cc/play/7112/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU TruMotion HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU TruMotion HD
+http://de.seetv.cc/play/7139/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU Кинозал Premiere 1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU Кинозал Premiere 1 HD
+http://de.seetv.cc/play/7113/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU Кинозал Premiere 2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU Кинозал Premiere 2 HD
+http://de.seetv.cc/play/7114/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU Кинозал Premiere 3 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU Кинозал Premiere 3 HD
+http://de.seetv.cc/play/7115/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU Survival HD"  group-title="Кинозалы",BCU Survival HD
+http://de.seetv.cc/play/7116/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU СВАТЫ HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU СВАТЫ HD
+http://de.seetv.cc/play/7127/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU Ruserial HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU Ruserial HD
+http://de.seetv.cc/play/7119/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU СССР HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU СССР HD
+http://de.seetv.cc/play/7120/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU Cosmo HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU Cosmo HD
+http://de.seetv.cc/play/7137/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU Criminal HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",BCU Criminal HD
+http://de.seetv.cc/play/7128/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU Ultra 4K"  group-title="Кинозалы",BCU Ultra 4K
+http://de.seetv.cc/play/7125/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BCU Premiere Ultra 4K"  group-title="Кинозалы",BCU Premiere Ultra 4K
+http://de.seetv.cc/play/7140/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Kinoshka Premiere HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",Kinoshka Premiere HD
+http://de.seetv.cc/play/9990/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Kinoshka Comedy HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",Kinoshka Comedy HD
+http://de.seetv.cc/play/9994/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Kinoshka Drama HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",Kinoshka Drama HD
+http://de.seetv.cc/play/9989/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Kinoshka Thriller HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",Kinoshka Thriller HD
+http://de.seetv.cc/play/9992/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Kinoshka Russian HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",Kinoshka Russian HD
+http://de.seetv.cc/play/9995/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Kinoshka Ukraine HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",Kinoshka Ukraine HD
+http://de.seetv.cc/play/6143/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Kinoshka Mystic HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",Kinoshka Mystic HD
+http://de.seetv.cc/play/9996/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Kinoshka Action HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",Kinoshka Action HD
+http://de.seetv.cc/play/9998/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Kinoshka Serial HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",Kinoshka Serial HD
+http://de.seetv.cc/play/6163/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KBC-В.О.В. HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",KBC-В.О.В. HD
+http://de.seetv.cc/play/8810/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KBC-Comics HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",KBC-Comics HD
+http://de.seetv.cc/play/8811/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KBC-Elite comedy's HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",KBC-Elite comedy's HD
+http://de.seetv.cc/play/8812/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KBC-Fantastic HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",KBC-Fantastic HD
+http://de.seetv.cc/play/8813/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KBC-History HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",KBC-History HD
+http://de.seetv.cc/play/8814/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KBC-Newfilm HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",KBC-Newfilm HD
+http://de.seetv.cc/play/8815/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KBC-WAR HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",KBC-WAR HD
+http://de.seetv.cc/play/8816/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KBC-Russian Комедия HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",KBC-Russian Комедия HD
+http://de.seetv.cc/play/8817/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KBC-Видак HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",KBC-Видак HD
+http://de.seetv.cc/play/8818/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KBC-ГАЙ Ritchie & Tarantino" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",KBC-ГАЙ Ritchie & Tarantino
+http://de.seetv.cc/play/8819/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KBC-ДрамаTic HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",KBC-ДрамаTic HD
+http://de.seetv.cc/play/8820/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KBC-Вестерн HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",KBC-Вестерн HD
+http://de.seetv.cc/play/8821/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KBC-Кошмарное HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",KBC-Кошмарное HD
+http://de.seetv.cc/play/8822/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KBC-Страна СССР" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",KBC-Страна СССР
+http://de.seetv.cc/play/8824/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KBC-Animals HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",KBC-Animals HD
+http://de.seetv.cc/play/8853/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KBC-MusKino HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",KBC-MusKino HD
+http://de.seetv.cc/play/8854/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KBC-СпортМикс HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",KBC-СпортМикс HD
+http://de.seetv.cc/play/8855/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KBC-ГОБЛИН HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",KBC-ГОБЛИН HD
+http://de.seetv.cc/play/8825/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KBC-Шпионское HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",KBC-Шпионское HD
+http://de.seetv.cc/play/8826/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KBC-АНИМЕ HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",KBC-АНИМЕ HD
+http://de.seetv.cc/play/8828/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="KBC-Легендарное HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",KBC-Легендарное HD
+http://de.seetv.cc/play/8856/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Premiere HD 1"  group-title="Кинозалы",Premiere HD 1
+http://de.seetv.cc/play/6105/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Premiere HD 2"  group-title="Кинозалы",Premiere HD 2
+http://de.seetv.cc/play/6106/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Premiere HD 3"  group-title="Кинозалы",Premiere HD 3
+http://de.seetv.cc/play/6107/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Premiere HD 4"  group-title="Кинозалы",Premiere HD 4
+http://de.seetv.cc/play/6108/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV Grand" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",YOSSO TV Grand
+http://de.seetv.cc/play/8779/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV VHS" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",YOSSO TV VHS
+http://de.seetv.cc/play/8778/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV Русские фильмы" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",YOSSO TV Русские фильмы
+http://de.seetv.cc/play/8776/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV Советские фильмы" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",YOSSO TV Советские фильмы
+http://de.seetv.cc/play/8775/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV New Кино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",YOSSO TV New Кино
+http://de.seetv.cc/play/8773/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV Трагичное" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",YOSSO TV Трагичное
+http://de.seetv.cc/play/8770/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV Забавное" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",YOSSO TV Забавное
+http://de.seetv.cc/play/8780/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV BEST" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",YOSSO TV BEST
+http://de.seetv.cc/play/8781/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV Ковбойское" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",YOSSO TV Ковбойское
+http://de.seetv.cc/play/8782/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV Adrenaline" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",YOSSO TV Adrenaline
+http://de.seetv.cc/play/8783/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV Adventure"  group-title="Кинозалы",YOSSO TV Adventure
+http://de.seetv.cc/play/8769/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV OBLIVION" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",YOSSO TV OBLIVION
+http://de.seetv.cc/play/8784/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="YOSSO TV Thriller" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",YOSSO TV Thriller
+http://de.seetv.cc/play/8785/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="YOSSO-4K"  group-title="Кинозалы",YOSSO-4K
+http://de.seetv.cc/play/8766/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="YOSSO-C-INQUEST" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",YOSSO-C-INQUEST
+http://de.seetv.cc/play/8767/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="YOSSO-C-COMEDY" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",YOSSO-C-COMEDY
+http://de.seetv.cc/play/8768/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Magic Adventure" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",Magic Adventure
+http://de.seetv.cc/play/6681/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Magic Russian" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",Magic Russian
+http://de.seetv.cc/play/6683/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Magic Action" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",Magic Action
+http://de.seetv.cc/play/6676/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Magic Comedy" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",Magic Comedy
+http://de.seetv.cc/play/6672/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Magic Family" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",Magic Family
+http://de.seetv.cc/play/6678/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Magic Galaxy" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",Magic Galaxy
+http://de.seetv.cc/play/6674/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Magic Horror" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",Magic Horror
+http://de.seetv.cc/play/6673/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Magic Karate" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",Magic Karate
+http://de.seetv.cc/play/6671/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Magic Love" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",Magic Love
+http://de.seetv.cc/play/6679/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Magic Thriller" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",Magic Thriller
+http://de.seetv.cc/play/6677/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Magic VHS" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",Magic VHS
+http://de.seetv.cc/play/6670/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MYTV" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MYTV
+http://de.seetv.cc/play/5150/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MYTV 2" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MYTV 2
+http://de.seetv.cc/play/5151/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MYTV 3" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MYTV 3
+http://de.seetv.cc/play/5152/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MYTV HIT" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MYTV HIT
+http://de.seetv.cc/play/5154/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan
+http://de.seetv.cc/play/13001/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan Action" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan Action
+http://de.seetv.cc/play/13002/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan Комедия" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan Комедия
+http://de.seetv.cc/play/13003/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan Катастрофы" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan Катастрофы
+http://de.seetv.cc/play/13004/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan Лесник" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan Лесник
+http://de.seetv.cc/play/13005/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan Marvel" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan Marvel
+http://de.seetv.cc/play/13006/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan Melodrama" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan Melodrama
+http://de.seetv.cc/play/13007/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan Ментовские Войны" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan Ментовские Войны
+http://de.seetv.cc/play/13008/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan MiniSeries" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan MiniSeries
+http://de.seetv.cc/play/13009/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan Пёс" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan Пёс
+http://de.seetv.cc/play/13010/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan Premium" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan Premium
+http://de.seetv.cc/play/13011/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan РуКино" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan РуКино
+http://de.seetv.cc/play/13012/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan Симпсоны" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan Симпсоны
+http://de.seetv.cc/play/13013/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan Скорая помощь" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan Скорая помощь
+http://de.seetv.cc/play/13014/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan Сваты" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan Сваты
+http://de.seetv.cc/play/13015/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan Thriller" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan Thriller
+http://de.seetv.cc/play/13016/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan Top" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan Top
+http://de.seetv.cc/play/13017/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan Ужасы" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan Ужасы
+http://de.seetv.cc/play/13018/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan VHS" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan VHS
+http://de.seetv.cc/play/13019/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan Relax 4K" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan Relax 4K
+http://de.seetv.cc/play/13025/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan Фитнес" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan Фитнес
+http://de.seetv.cc/play/13026/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan Интерны" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan Интерны
+http://de.seetv.cc/play/13027/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan Универ" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan Универ
+http://de.seetv.cc/play/13028/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="CineMan Глухарь + Карпов" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",CineMan Глухарь + Карпов
+http://de.seetv.cc/play/13029/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BOX Franchise HD"  group-title="Кинозалы",BOX Franchise HD
+http://de.seetv.cc/play/4200/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BOX Hybrid HD"  group-title="Кинозалы",BOX Hybrid HD
+http://de.seetv.cc/play/4201/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BOX Gangster HD"  group-title="Кинозалы",BOX Gangster HD
+http://de.seetv.cc/play/4203/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BOX Oscar HD"  group-title="Кинозалы",BOX Oscar HD
+http://de.seetv.cc/play/4204/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BOX Memory HD"  group-title="Кинозалы",BOX Memory HD
+http://de.seetv.cc/play/4205/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BOX Serial HD"  group-title="Кинозалы",BOX Serial HD
+http://de.seetv.cc/play/4207/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BOX Game HD"  group-title="Кинозалы",BOX Game HD
+http://de.seetv.cc/play/4208/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BOX Spy HD"  group-title="Кинозалы",BOX Spy HD
+http://de.seetv.cc/play/4209/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BOX Western HD"  group-title="Кинозалы",BOX Western HD
+http://de.seetv.cc/play/4210/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BOX Zombie HD"  group-title="Кинозалы",BOX Zombie HD
+http://de.seetv.cc/play/4211/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BOX Cyber HD"  group-title="Кинозалы",BOX Cyber HD
+http://de.seetv.cc/play/4212/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BOX Ghost HD"  group-title="Кинозалы",BOX Ghost HD
+http://de.seetv.cc/play/4217/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BOX Stories HD"  group-title="Кинозалы",BOX Stories HD
+http://de.seetv.cc/play/4218/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BOX Fantasy HD"  group-title="Кинозалы",BOX Fantasy HD
+http://de.seetv.cc/play/4219/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BOX Premiere 4K"  group-title="Кинозалы",BOX Premiere 4K
+http://de.seetv.cc/play/4220/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BOX Serial 4K"  group-title="Кинозалы",BOX Serial 4K
+http://de.seetv.cc/play/4221/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BOX Remast Plus 4K"  group-title="Кинозалы",BOX Remast Plus 4K
+http://de.seetv.cc/play/7142/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BOX Remast 4K"  group-title="Кинозалы",BOX Remast 4K
+http://de.seetv.cc/play/4222/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BOX Mayday HD"  group-title="Кинозалы",BOX Mayday HD
+http://de.seetv.cc/play/4223/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="BOX Relax 4K"  group-title="Кинозалы",BOX Relax 4K
+http://de.seetv.cc/play/4230/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Боевики HD"  group-title="Кинозалы",UZ-Боевики HD
+http://de.seetv.cc/play/6088/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Бойцовское кино HD"  group-title="Кинозалы",UZ-Бойцовское кино HD
+http://de.seetv.cc/play/6076/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Кинокомфорт"  group-title="Кинозалы",UZ-Кинокомфорт
+http://de.seetv.cc/play/6079/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Комедия HD"  group-title="Кинозалы",UZ-Комедия HD
+http://de.seetv.cc/play/6081/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Приключение HD"  group-title="Кинозалы",UZ-Приключение HD
+http://de.seetv.cc/play/6082/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Союз-Фильмы HD"  group-title="Кинозалы",UZ-Союз-Фильмы HD
+http://de.seetv.cc/play/6080/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Ужасное ТВ HD"  group-title="Кинозалы",UZ-Ужасное ТВ HD
+http://de.seetv.cc/play/6083/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Фантастика HD"  group-title="Кинозалы",UZ-Фантастика HD
+http://de.seetv.cc/play/6084/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Kino1 HD"  group-title="Кинозалы",UZ-Kino1 HD
+http://de.seetv.cc/play/6070/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Kino2 HD"  group-title="Кинозалы",UZ-Kino2 HD
+http://de.seetv.cc/play/6071/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Kino3 HD"  group-title="Кинозалы",UZ-Kino3 HD
+http://de.seetv.cc/play/6072/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Kino4 HD"  group-title="Кинозалы",UZ-Kino4 HD
+http://de.seetv.cc/play/6073/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Kino5 HD"  group-title="Кинозалы",UZ-Kino5 HD
+http://de.seetv.cc/play/6074/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Кинозал HEVC HD"  group-title="Кинозалы",UZ-Кинозал HEVC HD
+http://de.seetv.cc/play/6078/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Кинокомфорт HD"  group-title="Кинозалы",UZ-Кинокомфорт HD
+http://de.seetv.cc/play/6079/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Союз-Фильмы HD"  group-title="Кинозалы",UZ-Союз-Фильмы HD
+http://de.seetv.cc/play/6080/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Юмор ТВ HD"  group-title="Кинозалы",UZ-Юмор ТВ HD
+http://de.seetv.cc/play/6086/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Сериал HD"  group-title="Кинозалы",UZ-Сериал HD
+http://de.seetv.cc/play/6087/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Катастрофа HD"  group-title="Кинозалы",UZ-Катастрофа HD
+http://de.seetv.cc/play/6089/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Turk Serial HD"  group-title="Кинозалы",UZ-Turk Serial HD
+http://de.seetv.cc/play/6090/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Витек"  group-title="Кинозалы",UZ-Витек
+http://de.seetv.cc/play/6091/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-TV HD"  group-title="Кинозалы",UZ-TV HD
+http://de.seetv.cc/play/6092/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-4K Kino UHD"  group-title="Кинозалы",UZ-4K Kino UHD
+http://de.seetv.cc/play/6093/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-SWIRIDENKO TV HD"  group-title="Кинозалы",UZ-SWIRIDENKO TV HD
+http://de.seetv.cc/play/6094/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-SWIRIDENKO TV HD 2"  group-title="Кинозалы",UZ-SWIRIDENKO TV HD 2
+http://de.seetv.cc/play/6095/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-6-Кадров HD"  group-title="Кинозалы",UZ-6-Кадров HD
+http://de.seetv.cc/play/6096/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Сваты HD"  group-title="Кинозалы",UZ-Сваты HD
+http://de.seetv.cc/play/6098/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Films HD"  group-title="Кинозалы",UZ-Films HD
+http://de.seetv.cc/play/6101/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="UZ-Fantastic HD"  group-title="Кинозалы",UZ-Fantastic HD
+http://de.seetv.cc/play/6102/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM 007 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM 007 HD
+http://de.seetv.cc/play/6001/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Flip UHD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Flip UHD
+http://de.seetv.cc/play/6002/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Honey HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Honey HD
+http://de.seetv.cc/play/6003/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Live Planet HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Live Planet HD
+http://de.seetv.cc/play/6004/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM NewFilm 1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM NewFilm 1 HD
+http://de.seetv.cc/play/6005/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM NewFilm 2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM NewFilm 2 HD
+http://de.seetv.cc/play/6006/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM NewFilm 3 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM NewFilm 3 HD
+http://de.seetv.cc/play/6007/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM NewFilm RU HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM NewFilm RU HD
+http://de.seetv.cc/play/6008/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM UFO HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM UFO HD
+http://de.seetv.cc/play/6009/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM USSR 1941-1945 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM USSR 1941-1945 HD
+http://de.seetv.cc/play/6010/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM USSR Детектив HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM USSR Детектив HD
+http://de.seetv.cc/play/6011/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM USSR Комедия HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM USSR Комедия HD
+http://de.seetv.cc/play/6012/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM USSR Приключения HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM USSR Приключения HD
+http://de.seetv.cc/play/6013/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM USSR Драма HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM USSR Драма HD
+http://de.seetv.cc/play/6015/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Боевик HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Боевик HD
+http://de.seetv.cc/play/6017/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Боевик Classic HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Боевик Classic HD
+http://de.seetv.cc/play/6018/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Вестерн HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Вестерн HD
+http://de.seetv.cc/play/6019/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Воронины HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Воронины HD
+http://de.seetv.cc/play/6020/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Затмение HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Затмение HD
+http://de.seetv.cc/play/6021/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM История HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM История HD
+http://de.seetv.cc/play/6022/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Катастрофа HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Катастрофа HD
+http://de.seetv.cc/play/6023/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Киберпанк HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Киберпанк HD
+http://de.seetv.cc/play/6024/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Комедия Classic HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Комедия Classic HD
+http://de.seetv.cc/play/6025/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Комедия HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Комедия HD
+http://de.seetv.cc/play/6026/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Криминал HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Криминал HD
+http://de.seetv.cc/play/6027/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Крутые 90-е HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Крутые 90-е HD
+http://de.seetv.cc/play/6028/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Кунг-Фу HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Кунг-Фу HD
+http://de.seetv.cc/play/6029/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Мифология HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Мифология HD
+http://de.seetv.cc/play/6030/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Нуар HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Нуар HD
+http://de.seetv.cc/play/6031/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Погружение HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Погружение HD
+http://de.seetv.cc/play/6032/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Полицейский С Рублёвки HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Полицейский С Рублёвки HD
+http://de.seetv.cc/play/6033/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Приключения HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Приключения HD
+http://de.seetv.cc/play/6034/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Роскино HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Роскино HD
+http://de.seetv.cc/play/6035/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Сваты HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Сваты HD
+http://de.seetv.cc/play/6036/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Семейный 1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Семейный 1 HD
+http://de.seetv.cc/play/6037/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Семейный 2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Семейный 2 HD
+http://de.seetv.cc/play/6038/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Ситком HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Ситком HD
+http://de.seetv.cc/play/6039/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Ситком 2.0 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Ситком 2.0 HD
+http://de.seetv.cc/play/6040/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Скорость HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Скорость HD
+http://de.seetv.cc/play/6041/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Спорт HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Спорт HD
+http://de.seetv.cc/play/6042/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Супергерои HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Супергерои HD
+http://de.seetv.cc/play/6043/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Триллер HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Триллер HD
+http://de.seetv.cc/play/6044/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Ужастик HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Ужастик HD
+http://de.seetv.cc/play/6045/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Ужасы Classic HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Ужасы Classic HD
+http://de.seetv.cc/play/6048/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Ужасы HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Ужасы HD
+http://de.seetv.cc/play/6049/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Фантастика HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Фантастика HD
+http://de.seetv.cc/play/6050/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Фобия HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Фобия HD
+http://de.seetv.cc/play/6051/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Celebrity HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Celebrity HD
+http://de.seetv.cc/play/6052/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Classic HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Classic HD
+http://de.seetv.cc/play/6053/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Translation HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Translation HD
+http://de.seetv.cc/play/6054/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Драма HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Драма HD
+http://de.seetv.cc/play/6055/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Микромир HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Микромир HD
+http://de.seetv.cc/play/6056/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Макромир HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Макромир HD
+http://de.seetv.cc/play/6057/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Мегамир HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Мегамир HD
+http://de.seetv.cc/play/6058/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MS Prisons HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MS Prisons HD
+http://de.seetv.cc/play/6060/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Агата Кристи HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Агата Кристи HD
+http://de.seetv.cc/play/6061/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="MM Стивен Кинг HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Кинозалы",MM Стивен Кинг HD
+http://de.seetv.cc/play/6062/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Netflix"  group-title="Кинозалы",Clarity4K Netflix
+http://de.seetv.cc/play/4600/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Сделано в СССР"  group-title="Кинозалы",Clarity4K Сделано в СССР
+http://de.seetv.cc/play/4603/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Приключения"  group-title="Кинозалы",Clarity4K Приключения
+http://de.seetv.cc/play/4604/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Ужасы"  group-title="Кинозалы",Clarity4K Ужасы
+http://de.seetv.cc/play/4605/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Фантастика"  group-title="Кинозалы",Clarity4K Фантастика
+http://de.seetv.cc/play/4606/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Драмы"  group-title="Кинозалы",Clarity4K Драмы
+http://de.seetv.cc/play/4608/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4k Военные"  group-title="Кинозалы",Clarity4k Военные
+http://de.seetv.cc/play/4609/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Вестерн"  group-title="Кинозалы",Clarity4K Вестерн
+http://de.seetv.cc/play/4610/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Семейный"  group-title="Кинозалы",Clarity4K Семейный
+http://de.seetv.cc/play/4602/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Gamefilm"  group-title="Кинозалы",Clarity4K Gamefilm
+http://de.seetv.cc/play/4618/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K КиноФраншизы"  group-title="Кинозалы",Clarity4K КиноФраншизы
+http://de.seetv.cc/play/4626/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Комедия"  group-title="Кинозалы",Clarity4K Комедия
+http://de.seetv.cc/play/4627/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Боевик"  group-title="Кинозалы",Clarity4K Боевик
+http://de.seetv.cc/play/4628/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Фэнтези"  group-title="Кинозалы",Clarity4K Фэнтези
+http://de.seetv.cc/play/4631/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Anime"  group-title="Кинозалы",Clarity4K Anime
+http://de.seetv.cc/play/4632/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Asia"  group-title="Кинозалы",Clarity4K Asia
+http://de.seetv.cc/play/4634/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Космомир"  group-title="Кинозалы",Clarity4K Космомир
+http://de.seetv.cc/play/4636/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Истории во времени"  group-title="Кинозалы",Clarity4K Истории во времени
+http://de.seetv.cc/play/4637/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K АвтоМастер"  group-title="Кинозалы",Clarity4K АвтоМастер
+http://de.seetv.cc/play/4638/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Запал"  group-title="Кинозалы",Clarity4K Запал
+http://de.seetv.cc/play/4639/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K КиноШарм"  group-title="Кинозалы",Clarity4K КиноШарм
+http://de.seetv.cc/play/4640/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K HBO series"  group-title="Кинозалы",Clarity4K HBO series
+http://de.seetv.cc/play/4641/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4k Сумеречный Эфир"  group-title="Кинозалы",Clarity4k Сумеречный Эфир
+http://de.seetv.cc/play/4643/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K КиноНовинки"  group-title="Кинозалы",Clarity4K КиноНовинки
+http://de.seetv.cc/play/4644/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Мюзикл"  group-title="Кинозалы",Clarity4K Мюзикл
+http://de.seetv.cc/play/4635/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Матч! ПРЕМЬЕР" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! ПРЕМЬЕР
+http://de.seetv.cc/play/37/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Матч Премьер HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч Премьер HD
+http://de.seetv.cc/play/250/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Матч Арена" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч Арена
+http://de.seetv.cc/play/136/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Матч! Арена HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Арена HD
+http://de.seetv.cc/play/146/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Матч! Планета" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Планета
+http://de.seetv.cc/play/14/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Матч ТВ" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч ТВ
+http://de.seetv.cc/play/5/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Матч! HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! HD
+http://de.seetv.cc/play/397/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Матч! 50fps" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! 50fps
+http://de.seetv.cc/play/680/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Матч! Боец HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Боец HD
+http://de.seetv.cc/play/30/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="МАТЧ! Страна" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",МАТЧ! Страна
+http://de.seetv.cc/play/134/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Матч! Страна HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Страна HD
+http://de.seetv.cc/play/212/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Матч! Игра" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Игра
+http://de.seetv.cc/play/153/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Матч! Игра HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Игра HD
+http://de.seetv.cc/play/268/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Матч! Футбол 1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Футбол 1 HD
+http://de.seetv.cc/play/260/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Матч Футбол 1" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч Футбол 1
+http://de.seetv.cc/play/54/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Матч! Футбол 2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Футбол 2 HD
+http://de.seetv.cc/play/271/996DA9781004412/video.m3u8
+#EXTINF:0 tvg-name="Матч! Футбол 3 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч! Футбол 3 HD
+http://de.seetv.cc/play/329/996DA9781004412/video.m3u8
